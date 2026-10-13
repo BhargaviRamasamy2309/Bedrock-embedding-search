@@ -1,0 +1,32 @@
+NORTHSTAR LABS - EMPLOYEE POLICY
+Version 1.0 | Effective date: January 1, 2026
+
+This is a fictional company document created for a RAG learning exercise.
+All policies below apply to full-time employees of Northstar Labs.
+
+1. WORKING HOURS
+The standard workweek is Monday through Friday, with eight working hours per day. Core collaboration hours are 10:00 a.m. to 3:00 p.m. Eastern Time. Employees may choose their start and finish times outside these core hours with their manager's approval.
+
+2. ANNUAL LEAVE
+Full-time employees receive 20 days of paid annual leave per calendar year. Annual leave means vacation time. Employees should request annual leave in the employee portal at least seven calendar days before the first day off. Their manager must approve the request. Up to five unused annual leave days may carry over into the next calendar year. Carried-over days must be used by March 31 of that year; otherwise, they expire.
+
+3. SICK LEAVE
+Full-time employees receive 10 days of paid sick leave per calendar year, separate from annual leave. Employees should notify their manager before their scheduled start time when possible. A medical certificate is required only for an absence of more than three consecutive working days. Unused sick leave does not carry over to the next year.
+
+4. REMOTE WORK
+Employees may work remotely up to three days per week with their manager's approval. They must be available during core collaboration hours. Working from another country requires written approval from both Human Resources and Information Security before travel.
+
+5. EQUIPMENT AND HOME OFFICE
+Northstar Labs provides each employee with a company laptop. Employees may claim a one-time home office reimbursement of up to USD 300 for a monitor, keyboard, mouse, or office chair. Receipts must be submitted through the expense portal within 30 calendar days of purchase. Internet subscriptions are not covered by this reimbursement.
+
+6. LEARNING AND DEVELOPMENT
+Each employee has a learning budget of USD 1,000 per calendar year for job-related courses, certifications, and conferences. The manager must approve the expense before purchase. Unused learning funds do not carry over. Employees may take up to two paid working days per calendar year for approved learning activities; these days do not reduce annual leave.
+
+7. BUSINESS TRAVEL
+Business travel must be approved by the manager before booking. Flights must be economy class. Hotel reimbursement is capped at USD 180 per night, excluding taxes. Meal reimbursement is capped at USD 50 per travel day. Receipts are required for all travel expense claims, and claims must be submitted within 15 calendar days after the trip ends.
+
+8. INFORMATION SECURITY
+Company laptops must use disk encryption and automatic screen locking after five minutes of inactivity. Employees must use multifactor authentication for company accounts. Confidential company documents must be stored in approved company systems and must not be uploaded to personal cloud storage. A lost laptop or suspected security incident must be reported to the IT help desk immediately.
+
+9. SUPPORT CONTACTS
+Contact Human Resources at hr@northstar.example for leave and policy questions. Contact the IT help desk at helpdesk@northstar.example for equipment and security issues. The IT help desk operates Monday through Friday, 8:00 a.m. to 6:00 p.m. Eastern Time. These example addresses are fictional.
