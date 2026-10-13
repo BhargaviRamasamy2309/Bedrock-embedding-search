@@ -6,7 +6,7 @@ The application was tested locally with Postman against a single fictional emplo
 
 ## Technology stack
 
-- Java 17 or later
+- Java 25
 - Spring Boot and Spring Web
 - AWS SDK for Java v2 (`bedrockagentruntime`)
 - Amazon Bedrock Knowledge Bases
